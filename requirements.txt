@@ -1,0 +1,4 @@
+transformers
+torch
+textwrap3
+pandas 
